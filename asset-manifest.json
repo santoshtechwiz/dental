@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dental/static/css/main.0feb2097.css",
+    "main.js": "/dental/static/js/main.8e46a675.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/dental/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/dental/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/dental/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/slide_one.png": "/dental/static/media/slide_one.7447609e59c66d9b3605.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/dental/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/dental/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/female_profile_img.png": "/dental/static/media/female_profile_img.856a900828755c4fc4d3.png",
+    "static/media/male_profile_img.png": "/dental/static/media/male_profile_img.743ca5921201744a7b98.png",
+    "static/media/about_img.webp": "/dental/static/media/about_img.13bb375245f1a0305283.webp",
+    "static/media/logo.png": "/dental/static/media/logo.2efc83f79afd85b3a388.png",
+    "static/media/footer_01.jpg": "/dental/static/media/footer_01.8278da38b973ab9088fa.jpg",
+    "static/media/site_con.jpg": "/dental/static/media/site_con.e7a6921b6a59c7cefc56.jpg",
+    "static/media/appointment_admin_img.png": "/dental/static/media/appointment_admin_img.ead77caea6d44a2ccc4f.png",
+    "index.html": "/dental/index.html",
+    "main.0feb2097.css.map": "/dental/static/css/main.0feb2097.css.map",
+    "main.8e46a675.js.map": "/dental/static/js/main.8e46a675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0feb2097.css",
+    "static/js/main.8e46a675.js"
+  ]
+}
